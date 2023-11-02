@@ -9,6 +9,8 @@
 
 twitch.tv
 m.twitch.tv
+
+||static-cdn.jtvnw.net
 ! Removes the "Recommended channels" section when you're logged on
 
 twitch.tv##.recommended-channels
